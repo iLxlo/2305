@@ -1,5 +1,4 @@
-
-<img src="https://user-images.githubusercontent.com/66573599/146654766-41c1fdd8-9350-415e-87b2-afbfc17da12a.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" align="right" width="70" height="100" />
+![2f717cbc89ee3d56838b17269069f618](https://user-images.githubusercontent.com/98545753/175044422-ea12acb3-8047-438e-8fef-0330e288e3a9.png)
 
 #### [🔗 Discord Link](https://discord.gg/pV8VHDDKmJ) - [📖 Terms](https://github.com/Stanley-GF/PirateStealer#terms) - [🔨 Builder](https://discord.gg/pV8VHDDKmJ) - [💎 Premium](https://discord.gg/pV8VHDDKmJ) - [💡 Features](https://github.com/Stanley-GF/PirateStealer#features)
 
